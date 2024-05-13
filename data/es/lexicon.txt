@@ -11,9 +11,9 @@ octubre: noun masculine nominative singular inanimate
 noviembre: noun masculine nominative singular inanimate
 diciembre: noun masculine nominative singular inanimate
 domingo: noun masculine nominative singular inanimate
-lunes: noun masculine nominative singular inanimate
-martes: noun masculine nominative singular inanimate
-miércoles: noun masculine nominative singular inanimate
-jueves: noun masculine nominative singular inanimate
-viernes: noun masculine nominative singular inanimate
+lunes: noun masculine nominative singular plural inanimate
+martes: noun masculine nominative singular plural inanimate
+miércoles: noun masculine nominative singular plural inanimate
+jueves: noun masculine nominative singular plural inanimate
+viernes: noun masculine nominative singular plural inanimate
 sábado: noun masculine nominative singular inanimate
